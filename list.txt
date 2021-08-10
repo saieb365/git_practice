@@ -8,10 +8,10 @@ Tomatoes
 Potatoes
 
 Meat:
-
+Lamb
 Checken
 Goat
-
+Beef
 
 Dairy;
 
