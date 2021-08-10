@@ -14,7 +14,10 @@ Goat
 
 
 Dairy;
-
+Milk
+Cheese
+Yogurt
+Eggs
 
 Households:
 
